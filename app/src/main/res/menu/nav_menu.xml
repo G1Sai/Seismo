@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/felt"
+        android:title="I Felt an Earthquake" />
+    <item
+        android:id="@+id/global"
+        android:title="Global Map" />
+    <item
+        android:id="@+id/manual"
+        android:title="User Manual" />
+
+    <item
+        android:id="@+id/terms"
+        android:title="Terms Of Use" />
+
+</menu>

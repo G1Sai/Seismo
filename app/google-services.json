@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778643783840",
+    "project_id": "sesmo-721f7",
+    "storage_bucket": "sesmo-721f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778643783840:android:a6fb6b0067fbc82f0589c5",
+        "android_client_info": {
+          "package_name": "com.greymatter.sesmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778643783840-8vhr30jvn8dt9ft84jnseukmfcongvv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58n4xoDZ42I_9sSpN07jcM351LI7ioFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778643783840-8vhr30jvn8dt9ft84jnseukmfcongvv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
